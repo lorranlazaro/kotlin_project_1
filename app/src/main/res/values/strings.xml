@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Informe o seu Nome</string>
+
+    <string name="first_name_text">Primeiro Nome:</string>
+    <string name="last_name_text">Sobrenome:</string>
+    <string name="enter_button_text">Entrar</string>
+    <string name="welcome_to_the_app">Bem Vindo ao Aplicativo</string>
+    <string name="please_enter_a_name">Por favor, preencha os dois campos!</string>
+
+</resources>
